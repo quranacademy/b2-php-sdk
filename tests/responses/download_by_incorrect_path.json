@@ -1,0 +1,5 @@
+{
+    "code": "not_found",
+    "message": "bucket my-bucket does not have file: path/to/file",
+    "status": 404
+}
